@@ -50,7 +50,6 @@ public class ResumeSubmission {
         String newWindowHandle = windowHandles.iterator().next();
         driver.switchTo().window(newWindowHandle);
         wait10s.until(ExpectedConditions.presenceOfElementLocated(By.className("resume-deliver")));
-        //点击投递简历
         if (!"已投递".equals(driver.findElements(By.className("resume-deliver")).get(0).getText())) {
             driver.findElements(By.className("resume-deliver")).get(0).click();
             log.info("投递 {}", driver.findElement(By.className("position-head-wrap-name")).getText());
