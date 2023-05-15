@@ -27,6 +27,8 @@
 
 **如果你想在 [Boss直聘](http://zhipin.com) 上自动投递简历，请 [Click me](https://github.com/BeammNotFound/get-jobs-boss).**
 <br>
+**如果你想在 [前程无忧](https://we.51job.com/) 上自动投递简历，请 [Click me](https://github.com/BeammNotFound/get-jobs-51job).**
+<br>
 <br>
 
 > 希望能够在现在的大环境下帮助你找到一份满意的工作
