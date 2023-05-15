@@ -16,7 +16,7 @@
 
 ### 第三步：修改代码
 打开 /src/main/java/ResumeSubmission.java <br>
-修改 **baseUrl** 为自己的筛选条件 <br>
+**baseUrl**：自己的筛选条件 <br>
 可以在 [拉钩网](https://www.lagou.com) 中筛选你的工作条件然后复制url ⚠️ 要为 **&pn=** 结尾<br>
 **page** ：从第几页开始投递，page不能小于1<br>
 **maxPage**：投递到第几页
